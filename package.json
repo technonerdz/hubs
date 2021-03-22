@@ -80,6 +80,7 @@
     "dashjs": "^3.1.0",
     "dayjs-ext": "^2.2.0",
     "deepmerge": "^2.1.1",
+    "depthkit": "git+https://github.com/technonerdz/Depthkit.js.git",
     "detect-browser": "^3.0.1",
     "draft-js": "^0.10.5",
     "draft-js-counter-plugin": "^2.0.1",

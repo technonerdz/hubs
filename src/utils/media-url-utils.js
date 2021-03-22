@@ -18,7 +18,12 @@ const commonKnownContentTypes = {
   mp3: "audio/mpeg",
   basis: "image/basis",
   m3u8: "application/vnd.apple.mpegurl",
-  mpd: "application/dash+xml"
+  mpd: "application/dash+xml",
+  depthkit: "video/depthkit",
+  ply: "model/ply",
+  mux: "video/mux",
+  mtl: "model/obj",
+  obj: "model/obj"
 };
 
 // thanks to https://developer.mozilla.org/en-US/docs/Web/API/WindowBase64/Base64_encoding_and_decoding
